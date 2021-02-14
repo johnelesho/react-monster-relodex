@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-monster-relodex/static/css/main.e46354d8.chunk.css",
+    "main.js": "/react-monster-relodex/static/js/main.290dc4eb.chunk.js",
+    "main.js.map": "/react-monster-relodex/static/js/main.290dc4eb.chunk.js.map",
+    "runtime-main.js": "/react-monster-relodex/static/js/runtime-main.5e80d7a9.js",
+    "runtime-main.js.map": "/react-monster-relodex/static/js/runtime-main.5e80d7a9.js.map",
+    "static/js/2.77581679.chunk.js": "/react-monster-relodex/static/js/2.77581679.chunk.js",
+    "static/js/2.77581679.chunk.js.map": "/react-monster-relodex/static/js/2.77581679.chunk.js.map",
+    "static/js/3.e83d645d.chunk.js": "/react-monster-relodex/static/js/3.e83d645d.chunk.js",
+    "static/js/3.e83d645d.chunk.js.map": "/react-monster-relodex/static/js/3.e83d645d.chunk.js.map",
+    "index.html": "/react-monster-relodex/index.html",
+    "static/css/main.e46354d8.chunk.css.map": "/react-monster-relodex/static/css/main.e46354d8.chunk.css.map",
+    "static/js/2.77581679.chunk.js.LICENSE.txt": "/react-monster-relodex/static/js/2.77581679.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e80d7a9.js",
+    "static/js/2.77581679.chunk.js",
+    "static/css/main.e46354d8.chunk.css",
+    "static/js/main.290dc4eb.chunk.js"
+  ]
+}
